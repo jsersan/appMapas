@@ -5,9 +5,7 @@ Replace the API KEY in the script tag in `index.html` with your key. Import the 
 `<google-map></google-map>`# IonicMapa
 
 ## Además sigue estos pasos:
-
 1. Instala Node.js (http://nodejs.org/download/).
-
 2. Instala ionic siguiendo los pasos indicados:
   https://ionicframework.com/docs/installation/cli
 
@@ -18,7 +16,7 @@ Replace the API KEY in the script tag in `index.html` with your key. Import the 
   $ npm install o (sudo npm install)
 
   Esto instalará todas los archivos de node.
-
+  
 5.- Lanza la app desde el directorio del proyecto:
   
   $ ionic serve
